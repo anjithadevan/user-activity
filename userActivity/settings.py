@@ -89,7 +89,7 @@ DATABASES = {
         'USER': 'techversant',
         'PASSWORD': 'password',
         'HOST': 'localhost',
-        'PORT': '',                      # Set to empty string for default.
+        'PORT': '5432',                      # Set to empty string for default.
     }
 }
 
