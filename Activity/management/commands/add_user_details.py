@@ -6,7 +6,7 @@ from Activity.models import UserDetail, ActivityPeriod
 
 class Command(BaseCommand):
     """
-  Add old trainings and campaigns
+  Add dummy data to user details
   """
 
     def handle(self, **options):
